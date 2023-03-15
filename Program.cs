@@ -17,3 +17,5 @@ Console.WriteLine("5-" + favouritePlates[4]);
 
 Console.WriteLine("Piatto preferito: " + favouritePlates[0]);
 Console.WriteLine("Piatto preferito ma non troppo: " + favouritePlates[4]);
+
+Console.WriteLine("A metà classifica c'è: " + favouritePlates[3]);
